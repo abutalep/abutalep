@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed AbuTalep</h1>
-<h3 align="center">Mobile Applications Developer (Flutter)</h3>
+<h3 align="center">Software Engineer | Mobile Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abutalep&label=Profile%20views&color=0e75b6&style=flat" alt="abutalep" /> </p>
 
